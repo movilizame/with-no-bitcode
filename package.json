@@ -1,6 +1,6 @@
 {
   "name": "with-no-bitcode",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "An Expo config plugin for disabling bitcode`",
   "repository": "https://github.com/movilizame/with-no-bitcode",
   "author": "Pablo Botta",
